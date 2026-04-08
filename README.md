@@ -10,7 +10,7 @@ Despite the rapid expansion of the internet over the last two decades, a stark *
 ## 📊 Data Sources
 The data powering this dashboard was aggregated and cleaned from two primary sources:
 * **[World Bank Open Data](https://data.worldbank.org/):** Provided historical data on GDP per capita, overall internet usage, and gender-specific internet usage.
-* **[Best Broadband Deals](https://bestbroadbanddeals.co.uk/):** Provided the 2023 global pricing data for 1GB of mobile data.
+* **[Best Broadband Deals](https://bestbroadbanddeals.co.uk/):** Provided the global pricing data for 1GB of mobile data.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
