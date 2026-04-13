@@ -34,6 +34,8 @@ THE-DIGITAL-DIVIDE/
     ├── app.py                          # The main Streamlit dashboard application
     ├── data_cleaning.ipynb             # Jupyter Notebook detailing the data merging/cleaning 
     └── cleaned_dashboard_data.csv      # The final cleaned dataset used by the dashboard
+└── README.md
+└── Viz Dem.mp4 # Video showcasing the webapp and telling the story
 ```
 ## 🚀 How to Run the Dashboard Locally
 
