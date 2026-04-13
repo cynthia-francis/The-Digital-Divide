@@ -35,6 +35,7 @@ THE-DIGITAL-DIVIDE/
     ├── data_cleaning.ipynb             # Jupyter Notebook detailing the data merging/cleaning 
     └── cleaned_dashboard_data.csv      # The final cleaned dataset used by the dashboard
 └── README.md
+└── Data_Storytelling_Report.pdf # Report detailing the conception of this webapp
 └── Viz Dem.mp4 # Video showcasing the webapp and telling the story
 ```
 ## 🚀 How to Run the Dashboard Locally
